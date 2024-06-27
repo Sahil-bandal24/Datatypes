@@ -1,0 +1,28 @@
+a=complex(12.33+2)
+print(a)
+b='sahil'
+print(b)
+c=False
+print(c)
+d=None
+print(d)
+e=(2)
+print(e)
+f=(2.3)
+print(f)
+print("type of a is",type(a))
+print("type of b is",type(b))
+print("type of c is",type(c))
+print("type of d is",type(d))
+print("type of e is",type(e))
+print("type of f is",type(f))
+dict1={"name":"sahil","age":21,"address":"nallasopara mauli chwal"}
+print(dict1)
+list={("sahil,bandal"),("1,2,3,4,5")}
+print(list)
+tuple={("sahil,bandal"),("1,2,3")}
+print(tuple)
+set={3,6,2,1,4}
+print(set)
+frozenset={2,3,4,5,6,1,8,9,7}
+print(frozenset)
